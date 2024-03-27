@@ -4,8 +4,6 @@
 class Database
 {
     // DB Params
-
-
     private $host = 'localhost';
     private $db_name = 'myblog';
     private $username = '';
